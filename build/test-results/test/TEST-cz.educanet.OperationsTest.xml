@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cz.educanet.OperationsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-20T14:27:15" hostname="DESKTOP-I1U8O64" time="0.096">
+  <properties/>
+  <testcase name="getFactorial()" classname="cz.educanet.OperationsTest" time="0.096"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
